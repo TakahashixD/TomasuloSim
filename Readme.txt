@@ -1,0 +1,2 @@
+Algoritmo de tomasulo para executar basta trocar o arquivo txt dentro do programa main na função "read_input".
+O arquivo txt deve ser no mesmo formato que nos arquivos txt "teste1.txt", "teste2.txt" e teste3.txt".
